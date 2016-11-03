@@ -1,0 +1,44 @@
+{
+  "name": "json_csv",
+  "version": "0.1.0",
+  "description": "convert consecutive JSON files into CSV format",
+  "main": "app/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nw"
+  },
+  "window": {
+    "title": "JSON to CSV",
+    "toolbar": false,
+    "always-on-top": true,
+    "fullscreen": false,
+    "resizeable": false,
+    "max_width": 599,
+    "max_height": 300,
+    "min_width": 599,
+    "min_height": 300,
+    "focus": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patci/json-csv-converter.git"
+  },
+  "keywords": [
+    "JSON",
+    "CSV"
+  ],
+  "author": "rpatci@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patci/json-csv-converter/issues"
+  },
+  "homepage": "https://github.com/patci/json-csv-converter#readme",
+  "dependencies": {
+    "json-2-csv": "^2.0.12"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "nw": "^0.12.0",
+    "nw-builder": "^2.2.0"
+  }
+}

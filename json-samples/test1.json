@@ -1,0 +1,613 @@
+{
+  "Response": {
+    "responsecode": "200",
+    "Result": [
+      {
+        "ResultType": "shopping",
+        "Rank": "1",
+        "BaseRank": null,
+        "Url": "www.google.com/"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "2",
+        "BaseRank": "1",
+        "Url": "www.rei.com/c/backpacking-tents"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "3",
+        "BaseRank": "2",
+        "Url": "www.amazon.com/s?rh=n%3A2204486011%2Cp_n_size_browse-bin%3A2204489011"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "4",
+        "BaseRank": "3",
+        "Url": "www.walmart.com/tp/1-2-person-tents"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "5",
+        "BaseRank": "4",
+        "Url": "www.target.com/c/tents-camping-outdoors-sports/-/N-5xt5u"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "6",
+        "BaseRank": "5",
+        "Url": "www.dickssportinggoods.com/products/camping-family-tents.jsp"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "7",
+        "BaseRank": "6",
+        "Url": "www.backpacker.com/gear/tents/2-person/"
+      },
+      {
+        "ResultType": "images",
+        "Rank": "8",
+        "BaseRank": null,
+        "Url": "www.google.com/"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "9",
+        "BaseRank": "7",
+        "Url": "www.cabelas.com/category/View-All-Tents/105517980.uts"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "10",
+        "BaseRank": "8",
+        "Url": "www.coleman.com/Products/11000/tents"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "11",
+        "BaseRank": "9",
+        "Url": "www.the-house.com/tents-2-person.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "12",
+        "BaseRank": "10",
+        "Url": "www.overstock.com/Sports-Toys/Tents-Outdoor-Canopies/13129/subcat.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "13",
+        "BaseRank": "11",
+        "Url": "www.kmart.com/fitness-sports-outdoor-activities-camping-hiking-tents/b-1341652400"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "14",
+        "BaseRank": "12",
+        "Url": "www.gandermountain.com/Camping/Tents-Shelters/Camping-Tents"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "15",
+        "BaseRank": "13",
+        "Url": "www.kelty.com/category/tents-shelters"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "16",
+        "BaseRank": "14",
+        "Url": "www.kelty.com/product/acadia-2"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "17",
+        "BaseRank": "15",
+        "Url": "www.overstock.com/Sports-Toys/Tents-Outdoor-Canopies/2_-person,/sleeping-capacity,/13129/subcat.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "18",
+        "BaseRank": "16",
+        "Url": "www.ebay.com/sch/Tents-/179010/i.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "19",
+        "BaseRank": "17",
+        "Url": "www.llbean.com/llb/shop/1096?page=tents"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "20",
+        "BaseRank": "18",
+        "Url": "marmot.com/products/equipment/tents/2-person-tents"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "21",
+        "BaseRank": "19",
+        "Url": "www.sears.com/fitness-sports-outdoor-activities-camping-hiking-tents/b-1340958978"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "22",
+        "BaseRank": "20",
+        "Url": "www.outdoorgearlab.com/Backpacking-Tent-Reviews"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "23",
+        "BaseRank": "21",
+        "Url": "www.camptents.com/shop/2-person-pop-up-tent/"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "24",
+        "BaseRank": "22",
+        "Url": "www.slumberjack.com/p-581-trail-tent-2.aspx"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "25",
+        "BaseRank": "23",
+        "Url": "www.cleverhiker.com/blog/7-best-backpacking-tents-of-2015"
+      },
+      {
+        "ResultType": "videos",
+        "Rank": "26",
+        "BaseRank": "24",
+        "Url": "www.youtube.com/watch?v=V-yZSiD4OKs"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "27",
+        "BaseRank": "25",
+        "Url": "thewirecutter.com/reviews/tent-we-like-for-camping/"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "28",
+        "BaseRank": "26",
+        "Url": "www.moosejaw.com/moosejaw/shop/navigation__Tents_____"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "29",
+        "BaseRank": "27",
+        "Url": "www.basspro.com/Tents/_/S-12325001000?ddnv=FlyOCA_Tent"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "30",
+        "BaseRank": "28",
+        "Url": "www.campmor.com/h/s/shop-by-sale/hot-deals/tent-deals"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "31",
+        "BaseRank": "29",
+        "Url": "www.thenorthface.com/shop/equipment-tents"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "32",
+        "BaseRank": "30",
+        "Url": "www.backcountry.com/explore/how-to-choose-a-backpacking-tent"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "33",
+        "BaseRank": "31",
+        "Url": "www.anacondastores.com/camping-hiking/tents/camping-tents/spinifex-hawkesbury-2-person-dome-tent/p/BP90026370"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "34",
+        "BaseRank": "32",
+        "Url": "www.backcountrygear.com/ultralight-tents/tent-sleeps/2-person.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "35",
+        "BaseRank": "33",
+        "Url": "www.academy.com/shop/browse/camping--outdoors/tents--screen-houses"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "36",
+        "BaseRank": "34",
+        "Url": "www.sportsmansguide.com/productlist/camping/tents/backpacking-tents?c=80&s=420"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "37",
+        "BaseRank": "35",
+        "Url": "www.lowergear.com/product.php/id/196"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "38",
+        "BaseRank": "36",
+        "Url": "store.eurekatent.com/backpacking-tents"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "39",
+        "BaseRank": "37",
+        "Url": "www.gooutdoors.co.uk/camping/tents/1-2-person-tents"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "40",
+        "BaseRank": "38",
+        "Url": "hiconsumption.com/2014/01/10-best-camping-tents-for-the-great-outdoors/"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "41",
+        "BaseRank": "39",
+        "Url": "www.wenzelco.com/c-tents.aspx"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "42",
+        "BaseRank": "40",
+        "Url": "www.big5sportinggoods.com/store/browse/outdoors/camping-and-hiking/tents/_/N-al7?"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "43",
+        "BaseRank": "41",
+        "Url": "www.texsport.net/texsport-tents.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "44",
+        "BaseRank": "42",
+        "Url": "sectionhiker.com/kelty-salida-2-person-tent/"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "45",
+        "BaseRank": "43",
+        "Url": "www.staples.com/Camping/cat_CL211214"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "46",
+        "BaseRank": "44",
+        "Url": "www.sportsauthority.com/products/tents-tent-accessories-f2279633"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "47",
+        "BaseRank": "45",
+        "Url": "www.blacks.co.uk/equipment/tents-camping/tents/2-person-tents/"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "48",
+        "BaseRank": "46",
+        "Url": "www.sunnysports.com/c-2145/tents-shelters"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "49",
+        "BaseRank": "47",
+        "Url": "www.sierradesigns.com/product/flashlight-2"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "50",
+        "BaseRank": "48",
+        "Url": "www.homedepot.com/b/Playsets-Recreation-Camping-Hunting-Fishing-Hiking-Camping-Gear-Tents-Shelters/N-5yc1vZc417"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "51",
+        "BaseRank": "49",
+        "Url": "www.bigagnes.com/Products/Tents"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "52",
+        "BaseRank": "50",
+        "Url": "www.sportsmanswarehouse.com/sportsmans/Backpacking-Tents/category/cat100836"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "53",
+        "BaseRank": "51",
+        "Url": "unclesams.com/granite-falls-2-tent.php"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "54",
+        "BaseRank": "52",
+        "Url": "www.lightspeedoutdoors.com/"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "55",
+        "BaseRank": "53",
+        "Url": "www.geartrade.com/browse/tents/1"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "56",
+        "BaseRank": "54",
+        "Url": "www.tentspro.com/"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "57",
+        "BaseRank": "55",
+        "Url": "www.scoutstuff.org/bsa/camping/shelters/tents/tent-midori-2-eureka.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "58",
+        "BaseRank": "56",
+        "Url": "www.kohls.com/catalog/camping-hiking-tents-outdoor-recreation-sports-fitness.jsp?CN=4294721729+4294718277+4294707419+4294719676"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "59",
+        "BaseRank": "57",
+        "Url": "en.wikipedia.org/wiki/Tent"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "60",
+        "BaseRank": "58",
+        "Url": "indefinitelywild.gizmodo.com/how-to-find-the-perfect-tent-1624706473"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "61",
+        "BaseRank": "59",
+        "Url": "gearpatrol.com/2014/05/08/10-best-tents-2014/"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "62",
+        "BaseRank": "60",
+        "Url": "www.costco.com/tents-shelters.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "63",
+        "BaseRank": "61",
+        "Url": "www.junglehammock.com/product/vertex-with-weathershield/"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "64",
+        "BaseRank": "62",
+        "Url": "sfbay.craigslist.org/pen/spo/5359090011.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "65",
+        "BaseRank": "63",
+        "Url": "www.outdoorplay.com/Camp-Hike/2-Person-Camping-Tents"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "66",
+        "BaseRank": "64",
+        "Url": "shopping.yahoo.com/news/best-camping-tents-under--100-001230860.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "67",
+        "BaseRank": "65",
+        "Url": "www.trademe.co.nz/sports/camping-outdoors/tents/1-2-person-tents"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "68",
+        "BaseRank": "66",
+        "Url": "www.mountainhardwear.com/lightwedge-2-dp-OU9624.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "69",
+        "BaseRank": "67",
+        "Url": "us.hilleberg.com/EN/"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "70",
+        "BaseRank": "68",
+        "Url": "www.thrillist.com/gear/best-tents-of-2015-solo-tents-3-season-tents-car-camping-tents-winter-tents-ultralight-tents-multi-person-tents"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "71",
+        "BaseRank": "69",
+        "Url": "jcjustcamping.com/2-person-tent-review"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "72",
+        "BaseRank": "70",
+        "Url": "www.advensport.com/best-camping-tents/"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "73",
+        "BaseRank": "71",
+        "Url": "www.cascadedesigns.com/msr/tents/experience-series/hubba-hubba-nx/product"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "74",
+        "BaseRank": "72",
+        "Url": "www.tentsetc.com/collections/camping-gear"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "75",
+        "BaseRank": "73",
+        "Url": "www.sportchalet.com/outdoor/camping-and-hiking/tents/"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "76",
+        "BaseRank": "74",
+        "Url": "www.saferwholesale.com/category-s/122.htm"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "77",
+        "BaseRank": "75",
+        "Url": "www.eddiebauer.com/product/stargazer-2-person-tent/82302204/_/A-ebSku_0232204907__82302204_catalog10002_en__US"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "78",
+        "BaseRank": "76",
+        "Url": "www.fleetfarm.com/category/sporting-goods/camping/tents-accessories"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "79",
+        "BaseRank": "77",
+        "Url": "www.kathmandu.com.au/camping/tents.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "80",
+        "BaseRank": "78",
+        "Url": "www.bigskyfishing.com/camping-products/tents-four-season.php"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "81",
+        "BaseRank": "79",
+        "Url": "www.cotswoldoutdoor.com/equipment/tents/2-person-tents"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "82",
+        "BaseRank": "80",
+        "Url": "kaimatents.com/kaima-easy-setup-2-person-camping-tent-blue-yellow.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "83",
+        "BaseRank": "81",
+        "Url": "blackwoodspress.com/blog/12796/directory-lightweight-backpacking-shelters/"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "84",
+        "BaseRank": "82",
+        "Url": "www.sierratradingpost.com/marmot-midgard-2-tent-2-person-4-season~p~6333n/reviews/"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "85",
+        "BaseRank": "83",
+        "Url": "www.paragonsports.com/shop/en/Paragon/tents"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "86",
+        "BaseRank": "84",
+        "Url": "www.adventure16.com/shop/msr/hubba-hubba-nx-2person-backpacking-tent-4999"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "87",
+        "BaseRank": "85",
+        "Url": "www.lazada.com.ph/2-person-dome-camping-tent-107122.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "88",
+        "BaseRank": "86",
+        "Url": "www.wayfair.com/Tents-C216003.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "89",
+        "BaseRank": "87",
+        "Url": "www.campsaver.com/fury-2-tent-2-person-4-season"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "90",
+        "BaseRank": "88",
+        "Url": "www.meijer.com/t3/sporting-goods/camping/tents-canopies/t1/t1-871/t2/t2-10046/T3-615.uts"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "91",
+        "BaseRank": "89",
+        "Url": "www.12survivors.com/ts75001.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "92",
+        "BaseRank": "90",
+        "Url": "www.globalsources.com/si/AS/Beijing-Luying/6008830835537/pdtl/Best-2-people-hiking-tent-camping-tents-2-person/1119357236.htm"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "93",
+        "BaseRank": "91",
+        "Url": "rentals.sportsbasement.com/rent/camping-backpacking/2-person-tent"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "94",
+        "BaseRank": "92",
+        "Url": "www.glacier-national-park-travel-guide.com/backpacking-tents.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "95",
+        "BaseRank": "93",
+        "Url": "www.backcountryedge.com/backpacking-and-camping-gear/tents.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "96",
+        "BaseRank": "94",
+        "Url": "www.campingworld.com/category/family-tents/1015"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "97",
+        "BaseRank": "95",
+        "Url": "www.ckbproducts.com/bluegray-redgray-person-camping-tent-p-28398.html"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "98",
+        "BaseRank": "96",
+        "Url": "www.campingatv.com/home/store/camping-gear/atv-camping-tents/"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "99",
+        "BaseRank": "97",
+        "Url": "www.cyclingabout.com/everything-you-ever-need-to-know-tents-for-bicycle-touring/"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "100",
+        "BaseRank": "98",
+        "Url": "www.sportsdirect.com/camping/tents/2-to-4-man-tents"
+      },
+      {
+        "ResultType": "regular",
+        "Rank": "101",
+        "BaseRank": "99",
+        "Url": "www.instructables.com/id/How-to-Put-up-a-Dome-Tent/"
+      }
+    ]
+  }
+}
